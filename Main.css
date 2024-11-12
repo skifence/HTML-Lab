@@ -1,12 +1,13 @@
 body {
   font-family: "League Spartan", sans-serif;
-  font-optical-sizing: auto;
+  font-optical-sizing: none;
   font-weight: 400;
   font-style: normal;
   background-color: #0f0e17;;
   color: #a7a9be;
-  ::selection {color: #ff8906;}
 }
+
+::selection {color: #ff8906;}
 
 header {
     background-color: #0f0e17;
